@@ -83,7 +83,7 @@ out
 .nuxt
 dist
 .output
-
+package-lock.json
 # NitroJS
 .nitro/
 
